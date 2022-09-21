@@ -26,7 +26,7 @@ Uma calculadora simples capaz e calcular as 4 operações básicas.
 ## :link: Deploy
 
 ```
-
+https://leonardojpereira.github.io/javascript-calculator/
 ```
 
 ⌨️ with ❤️ by [Leonardo Barbosa](https://github.com/leonardojpereira) 😊
